@@ -13,11 +13,11 @@
         <div class="block flex align-center ">
           <i class="iconfont icon-QQ"></i>
           <div class="hide-block flex align-center justify-center">
-            <span>953136447</span>
+            <span>1151127150</span>
           </div>
         </div>
         <div class="block flex align-center ">
-          <a href="https://github.com/qiheizhiya/myBlog" target="_blank">
+          <a href="https://github.com/scinloop/myblog" target="_blank">
             <i class="iconfont icon-GitHub"></i>
           </a>
           <div class="hide-block flex align-center justify-center">

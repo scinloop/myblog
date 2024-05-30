@@ -9,12 +9,12 @@
         <div class="side"></div>
       </div>
       <div class="text">
-        <div class="text--backing">LONGJIE</div>
+        <div class="text--backing">QINJIE</div>
         <div class="text--left">
-          <div class="inner">LONGJIE</div>
+          <div class="inner">QINJIE</div>
         </div>
         <div class="text--right">
-          <div class="inner">LONGJIE</div>
+          <div class="inner">QINJIE</div>
         </div>
       </div>
     </div>
@@ -36,9 +36,9 @@
     </div>
     <div class="talk-method flex align-center">
       <i class="iconfont icon-weixin1 flex align-center">
-        <span>：qwer880620</span>
+        <span>：scinloop</span>
       </i>
-      <i class="iconfont icon-QQ">：953136447</i>
+      <i class="iconfont icon-QQ">：1151127150</i>
     </div>
   </div>
 </template>
@@ -55,7 +55,7 @@ export default {
         { name:' 听雨',icon:'iconfont icon-xiangce', path:'/Rainy' },
         { name:' 关于我',icon:'iconfont icon-liuyanban', path:'/self' },
         { name:' 留言版',icon:'iconfont icon-liuyanban', path:'/message' },
-        { name:' Github',icon:'iconfont icon-GitHub', path:'https://github.com/qiheizhiya/myBlog' },
+        { name:' Github',icon:'iconfont icon-GitHub', path:'https://github.com/scinloop/myblog' },
       ]
     };
   },
@@ -67,7 +67,7 @@ export default {
   },
   methods: {
     triggerPage(path) {
-      if (path === "https://github.com/qiheizhiya/myBlog") {
+      if (path === "https://github.com/scinloop/myblog") {
         window.open(path);
       } else if (path === "logoff") {
         this.$store.dispatch("clearToken");

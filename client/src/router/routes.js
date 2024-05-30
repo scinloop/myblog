@@ -4,7 +4,7 @@ export default [
     name: "Home",
     component: () => import(/* webpackChunkName: "main" */ "../views/Home"),
     meta: {
-      title: '漆黑之牙'
+      title: '真新镇小杰'
     }
   },
   {
@@ -12,7 +12,7 @@ export default [
     name: "Exhibit",
     component: () => import(/* webpackChunkName: "exhibit" */ "../views/Exhibit"),
     meta: {
-      title: '展览 | 漆黑之牙'
+      title: '展览 | 真新镇小杰'
     }
   },
   {
@@ -20,7 +20,7 @@ export default [
     name: "ArticleList",
     component: () => import(/* webpackChunkName: "article" */ "../views/ArticleList"),
     meta: {
-      title: 'Article | 漆黑之牙'
+      title: 'Article | 真新镇小杰'
     }
   },
   {
@@ -33,7 +33,7 @@ export default [
     name: "Demo",
     component: () => import(/* webpackChunkName: "other" */ "../views/Demo"),
     meta: {
-      title: 'Demo | 漆黑之牙'
+      title: 'Demo | 真新镇小杰'
     }
   },
   {

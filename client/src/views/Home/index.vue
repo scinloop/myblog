@@ -2,7 +2,7 @@
   <div id="Maske">
     <Center class="center" />
     <div class="bg"></div>
-    <div class="beian">粤ICP备20043000号</div>
+    <div class="beian">welcome to my blog !</div>
   </div>
 </template>
 <script>
